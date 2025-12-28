@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "また、おかえり。",
+  "base_artist": "猫又おかゆ",
+  "createdAt": "2025-12-28T16:15:59.000601Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "また、おかえり。",
+      "artist": "猫又おかゆ",
+      "has_synced": false,
+      "path": "select/pl_01_また、おかえり。_猫又おかゆ.txt"
+    }
+  ]
+}
